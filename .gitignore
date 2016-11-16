@@ -3,3 +3,5 @@ build/
 dist/
 funclist
 l.obj
+nbproject/
+.DS_Store
